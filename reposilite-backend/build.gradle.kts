@@ -121,7 +121,7 @@ dependencies {
 
     testImplementation("com.google.http-client:google-http-client-jackson2:1.40.0")
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.7.1")
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.7.1")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.1")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
 }
 
